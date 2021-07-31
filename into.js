@@ -14,6 +14,7 @@
 
 //    3. JavaScript to program the behavior of web pages
 
+// you can run js  in vs code , any browser(chrome developer tools) codepen website
 // so  Tanvir,
 // let's Learn the basics of JavaScript and move your first steps with programming.
 
@@ -21,6 +22,8 @@ console.log('bye world')
 
 // yeah that's the first line of js programming code for me
 // ok tata bye 
+
+
 
 
 // dear Tanvir, it's a freecode camp article you can read
