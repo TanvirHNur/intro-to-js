@@ -43,3 +43,16 @@ console.log(eggPrice * eggQuantity)
 // // var discount = 10%;
 // var totalCost = 100 % 10;
 // console.log(totalCost)
+var mangoes = 7;
+var hungryMan = 2;
+var remainder = mangoes % hungryMan;
+console.log(remainder);
+
+
+
+// speecial addition
+var fisrtNumber = 0.1;
+var seconedNumber = 0.2;
+var total = fisrtNumber + seconedNumber;
+console.log(parseFloat(total.toFixed(1)));
+
